@@ -1,0 +1,13 @@
+//
+//  TcpSendLoginPackage.h
+//  ql
+//
+//  Created by yunlai on 14-5-4.
+//  Copyright (c) 2014年 LuoHui. All rights reserved.
+//
+
+#import "TcpSendPackage.h"
+
+@interface TcpSendLoginPackage : TcpSendPackage
+
+@end
